@@ -14,7 +14,7 @@
 prompt-library/
 ├── universal/
 │   ├── anti_sycophancy.md      ← защита от sycophancy, стресс-тест (любой проект)
-│   └── think_before_coding.md  ← анализ задачи до написания кода (любой проект)
+│   └── structured_approach.md  ← анализ перед любым действием (любой проект)
 ├── trading/
 │   ├── signal_request.md       ← запрос торгового сигнала
 │   ├── morning_analysis.md     ← утренний анализ рынка
@@ -28,7 +28,8 @@ prompt-library/
 ├── agents/                     ← системные промпты агентов (заполняется позже)
 └── meta/
     ├── prompt_template.md      ← шаблон для нового промпта
-    └── prompt_review.md        ← оценка и улучшение промпта
+    ├── prompt_review.md        ← оценка и улучшение промпта
+    └── working_with_claude.md  ← личные принципы работы с Claude
 ```
 
 **Принцип разделения:**
